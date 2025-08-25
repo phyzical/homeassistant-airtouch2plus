@@ -12,6 +12,7 @@ Platform | Description
 
 ## Installation
 
-1. Click install.
+1. Add Repository as a custom repository in HACS, "Click ..." -> "Custom Repositories" -> Enter "https://github.com/nathanvdh/homeassistant-airtouch2plus" and type "Integration" -> Save
+1. Search of "airtouch2plus" in HACS and install
 1. In the HA UI go to "Configuration" -> "Integrations" click "+" and search for "airtouch2plus".
 1. Enter the host address (IP) of the Airtouch 2+ system
